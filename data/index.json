@@ -1,0 +1,162 @@
+{
+    "jobTitle": [
+        {
+            "title": "aspiring software developer",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "a youTuber",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "a founder and CEO at JT Devs",
+            "color": "rgb(153, 76, 150)"
+        },
+        {
+            "title": "an IT Lecturer",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "about": [
+        "I am Tashreeq Lee all the way from Crawford, Cape town. I am an aspiring developer entering this journey and getting ready to become the best version of myself in this field.The journey in the tech industry started at a young age where breaking computers just to rebuild it again was one of the things i looked forward to doing most days.I love to enhance and better every environment I enter and am interested in improving myself in coding everyday."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2020,
+            "description": "I completed Matric",
+            "place": "Alexander Sinton High School",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "I got my certificates on Advanced to Python",
+            "place": "Data Camp",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
+        },
+        {
+            "id": 3,
+            "year": 2020,
+            "description": "I got my certificates on Intro to Python",
+            "place": "Data Camp",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/1-_DBHhxHKGS3Gqsy5eJ-_16WJN50OfXX/view"
+        },
+        {
+            "id": 4,
+            "year": 2015,
+            "description": "I got my certificate on Intro to Android Developer",
+            "place": "Study Jams",
+            "type": "certificate",
+            "certificate": "https://drive.google.com/file/d/102891ip_JFl_NEwW942zbvbkG7SXHx0G/view"
+        },
+        {
+            "id": 5,
+            "year": 2014,
+            "description": "I got my diploma on Software Engineering",
+            "place": "Tshwane University of Technology",
+            "type": "Diploma",
+            "certificate": "https://drive.google.com/file/d/10JQilglK4RoVToj_h739oYKUwH5vqTDp/view"
+        },
+        {
+            "id": 6,
+            "year": 2005,
+            "description": "Completed my course on PC Engineering",
+            "place": "Havatech",
+            "type": "Certificate",
+            "certificate": "https://drive.google.com/file/d/10MNxwM9wsyLl3pGVv9dBblD57-gSnjLR/view"
+        },
+        {
+            "id": 7,
+            "year": 2000,
+            "description": "Grade 12",
+            "place": "",
+            "type": "Certificate",
+            "certificate": ""
+        }
+    ],
+    "skills": [
+        {
+            "title": "CSS",
+            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+        },
+        {
+            "title": "Javascript",
+            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+        },
+        {
+            "title": "Vue.js",
+            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+        },
+        {
+            "title": "Bootstrap",
+            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Ntokozo",
+            "surname": "Sithebe",
+            "quotes": "Tashreeq never ceases to amaze me with the vast amount of knowledge he has acquired over the years in software development. He is truly a great mentor.",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Taariq",
+            "surname": "Ryklief",
+            "quotes": "Tashreeq is a nice person. Someone who is really reliable and honest always does his work and makes sure everything is well organized.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Calla",
+            "surname": "Ward",
+            "quotes": "Tashreeq Lee is an incredibly humble intellectual. He is an outstanding lecturer who consistently finds effective ways to ensure that everyone comprehends the content. Additionally, he has a delightful personality, making him a joy to be around.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Rheece",
+            "surname": "Ward",
+            "quotes": "I am thrilled to share my heartfelt testimonial for Tashreeq, a remarkable former co-worker and lecturer. Tashreeq worked under my guidance for one year during my time as Head of Curriculum and Learning at Lifechoices Academy. His expertise in C++, HTML, CSS, Vue.js, JavaScript, and Node.js is truly impressive, and he effortlessly demonstrates proficiency in these technologies. However, what truly sets Tash apart is his exceptional teaching skills. He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. Tash's patience and willingness to go the extra mile to ensure every student grasps the material are truly commendable. I consider myself fortunate to have learned from him, and I wholeheartedly recommend him as an outstanding educator.",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "To-do List",
+            "description": "I built this application using HTML 5, CSS, and Javascript.",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "Calculator",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "",
+            "description": ".",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "",
+            "gitHub": "",
+            "netlify": ""
+        },
+        {
+            "name": "JS Portfolio",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
+            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
+            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
+            "netlify": "https://joeljsportfolio.netlify.app/"
+        }
+    ]
+}
